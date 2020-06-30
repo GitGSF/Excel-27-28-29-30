@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dark_Cheedar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dark_Cheedar\\.nuget\\packages"
+    ]
+  }
+}

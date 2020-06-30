@@ -1,0 +1,13 @@
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\bin\Debug\netcoreapp3.1\Excel-27-28-29-30.exe
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\bin\Debug\netcoreapp3.1\Excel-27-28-29-30.deps.json
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\bin\Debug\netcoreapp3.1\Excel-27-28-29-30.runtimeconfig.json
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\bin\Debug\netcoreapp3.1\Excel-27-28-29-30.runtimeconfig.dev.json
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\bin\Debug\netcoreapp3.1\Excel-27-28-29-30.dll
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\bin\Debug\netcoreapp3.1\Excel-27-28-29-30.pdb
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\obj\Debug\netcoreapp3.1\Excel-27-28-29-30.csprojAssemblyReference.cache
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\obj\Debug\netcoreapp3.1\Excel-27-28-29-30.AssemblyInfoInputs.cache
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\obj\Debug\netcoreapp3.1\Excel-27-28-29-30.AssemblyInfo.cs
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\obj\Debug\netcoreapp3.1\Excel-27-28-29-30.csproj.CoreCompileInputs.cache
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\obj\Debug\netcoreapp3.1\Excel-27-28-29-30.dll
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\obj\Debug\netcoreapp3.1\Excel-27-28-29-30.pdb
+C:\Users\Dark_Cheedar\Desktop\Excel-27-28-29-30\obj\Debug\netcoreapp3.1\Excel-27-28-29-30.genruntimeconfig.cache
