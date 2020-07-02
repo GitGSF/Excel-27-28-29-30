@@ -58,6 +58,34 @@ namespace Excel_27_28_29_30
             }
             return prod;
         }
+        public List<Produto> Filtrar(string _nome){
+            return Ler().FindAll(x => x.Nome == _nome);
+        }
+
+        public void Remover(string _termo)
+        {
+            // Criamos uma lista de linhas para fazer "Backup"
+            List<string> linhas = new List<string>();
+
+            using(StreamReader arquivo = new StreamReader(PATH))
+            {
+                string linha;
+                while((linha = arquivo.ReadLine()) != null){
+                    linhas.Add(linha);
+                }
+
+                linhas.RemoveAll(z => z.Contains(_termo));
+            }
+
+            // Reescrever sem linhas vazias
+            using(StreamWriter output = new StreamWriter(PATH))
+            {
+                foreach(string ln in linhas)
+                {
+                    output.Write(ln+"\n");
+                }
+            }
+        }
         public string Separar(string dados)
         {
             // codigo=1

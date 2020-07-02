@@ -7,18 +7,21 @@ namespace Excel_27_28_29_30
     {
         static void Main(string[] args)
         {
-            Produto p1 = new Produto();
-            p1.Codigo = 2;
-            p1.Nome = "PS4";
-            p1.Preco = 3000f;
+            Produto p = new Produto();
+            p.Codigo = 2;
+            p.Nome = "PS5";
+            p.Preco = 2000f;
+            p.Inserir(p);
 
-            p1.Inserir(p1);
+            p.Remover("PS4");
 
-            List<Produto> lista = p1.Ler();
+
+            List<Produto> lista = new List<Produto>();
+            lista = p.Ler();
 
             foreach (Produto item in lista)
             {
-                System.Console.WriteLine($" {p1.Preco} - {p1.Nome}");
+                System.Console.WriteLine($" {p.Preco} - {p.Nome}");
             }
         }
     }
